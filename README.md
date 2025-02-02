@@ -1,4 +1,4 @@
-# Olá! Eu sou a Thalita 🌷
+# Olá! Eu sou Thalita 🌷
 
 **`Desenvolvedora FrontEnd`**
 
