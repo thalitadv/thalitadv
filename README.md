@@ -2,8 +2,6 @@
 
 **`Desenvolvedora FrontEnd`**
 
-🌱 Estudando JavaScript e React
-
 ### 
 👩🏻‍💻 Linguagens e Tecnologias
 
@@ -31,14 +29,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
