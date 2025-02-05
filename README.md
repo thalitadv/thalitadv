@@ -61,5 +61,5 @@ src="https://github-readme-stats.vercel.app/api?username=thalitadv&show_icons=tr
 <p>
 <img
 height="150" 
-src="https://cdn.discordapp.com/attachments/1335113609977790525/1335403150378664047/mez.PNG?ex=67a00a99&is=679eb919&hm=4bccd1a6bb1fc92fd8445fd4ad226423aa9585e489cfe1ac7c4d6b061de32c4d&"/>
+src="https://cdn.discordapp.com/attachments/1249644659198656555/1336805012222902405/mez.PNG?ex=67a5242f&is=67a3d2af&hm=1e5143601d9b92f09120fac731c458f3a2f2fd83c2c638256308be74fe81e7a9&"/>
 </p>
