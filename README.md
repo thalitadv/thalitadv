@@ -1,6 +1,6 @@
 # Olá! Eu sou Thalita 🌷
 
-**`Desenvolvedora de Software`**
+**`Desenvolvedora FullStack`**
 
 ###
 <img 
