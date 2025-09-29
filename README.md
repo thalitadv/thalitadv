@@ -70,11 +70,6 @@ src="https://github-readme-stats.vercel.app/api?username=thalitadv&show_icons=tr
 />
 </p>
 
-<p>
-<img
-height="150" 
-src="https://cdn.discordapp.com/attachments/696171494060851240/1362236989952364694/cc009bee-09e8-478a-9867-ff7da4600d19.png?ex=6801a98f&is=6800580f&hm=c50f99d39714cfb132cdd4439e0bf51d85cd88cd5189474a183e0abaca537489&"/>
-</p>
 
 <img src="https://raw.githubusercontent.com/thalitadv/thalitadv/output/snake.svg" alt="Snake animation" />
 
